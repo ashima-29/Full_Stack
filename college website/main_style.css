@@ -27,7 +27,6 @@ body{
     cursor:default;
 }
 
-    /* Website Scrollerbar */
     body::-webkit-scrollbar {
         width: 5px !important;
         height: 5px !important;
@@ -133,7 +132,6 @@ nav img{
     display:none;
 }
 
-/* Course */
 
  .course{
     width: 80%;
@@ -174,10 +172,6 @@ h3{
 .course-col:hover{
     box-shadow: 10px 10px 24px 0px rgba(0,0,0,0.4);
 }
-
-
-    /*Campus*/
-
 
 .campus{
     width: 80%;
@@ -302,11 +296,6 @@ h3{
     padding: 100px 0;
     box-shadow: 10px 10px 24px 0px rgba(0, 0, 0, 0.664);
 }
-/* .ctn{
-    
-} */
-
-/* Footer */
 
 .footer{
     width: 100%;
@@ -320,8 +309,6 @@ h3{
     margin-top: 20px;
     font-weight: 600;
 } 
-
-/* Media query for responsive */
 
 @media (max-width: 700px) {
 
